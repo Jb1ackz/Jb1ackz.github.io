@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jb1ackz.github.io/manifest.json</loc>
+    
+    <lastmod>2025-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jb1ackz.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2025-03-22</lastmod>
